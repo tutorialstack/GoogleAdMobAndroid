@@ -30,7 +30,7 @@ Adding Mobile Ads SDK by calling <strong>MobileAds.initialize()</strong> with sa
 <h3><strong>Implement a Banner</strong></h3>
 
 add <strong>AdView</strong> in<strong> xml</strong> file for banner ads.
-<pre>
+
     <com.google.android.gms.ads.AdView 
           xmlns:ads="http://schemas.android.com/apk/res-auto"
           android:id="@+id/adView"
@@ -40,7 +40,7 @@ add <strong>AdView</strong> in<strong> xml</strong> file for banner ads.
           android:layout_centerHorizontal="true"
           ads:adSize="BANNER"
           ads:adUnitId="ca-app-pub-7643266345625929/3537614550" />
-</pre>
+
 
 <ul>
  	<li><span style="color: #800000;"><strong>Ads: AdSize</strong></span> - Set ad size - <a href="https://developers.google.com/admob/android/banner?hl=en-GB#banner_sizes">banner size section</a></li>
