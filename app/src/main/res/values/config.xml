@@ -3,6 +3,6 @@
     <bool name="debug">true</bool>
     <string name="gcm_sender_id"></string>
     <string name="ads_banner_id">ca-app-pub-7643266345625929/3537614550</string>
-    <string name="ads_interstitial_id"></string>
+    <string name="ads_interstitial_id">ca-app-pub-7643266345625929/3567501731</string>
 
 </resources>
