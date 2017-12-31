@@ -101,4 +101,8 @@ mAdView.loadAd(adRequest);
 </pre>
 Add above code in activity.
 
-[Read More...](http://tutorialstack.in/integrating-google-ads-in-android)
+<a href="http://tutorialstack.in/integrating-google-ads-in-android" target="_blank" rel="noopener"><strong>Implement Banner Ads Android</strong></a>
+
+<a href="http://tutorialstack.in/integrating-google-admob-interstitial-ads/" target="_blank" rel="noopener"><strong>Integrating Google AdMob Interstitial Ads</strong></a>
+
+<a href="http://tutorialstack.in/implement-rewarded-video-ads-android" target="_blank" rel="noopener"><strong>Implement Rewarded Video Ads Android</strong></a>
