@@ -11,15 +11,29 @@
         android:layout_height="match_parent">
 
         <TextView
+            android:id="@+id/txt_interstitial_add"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="15dp"
             android:background="@color/colorPrimaryDark"
             android:clickable="true"
             android:gravity="center"
-            android:onClick="showInterstitialAdd"
+            android:onClick="showInterstitialAd"
             android:padding="10dp"
-            android:text="Show Interstitial Ad"
+            android:text="Show Interstitial Ads"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_interstitial_add"
+            android:layout_margin="15dp"
+            android:background="@color/colorPrimaryDark"
+            android:clickable="true"
+            android:gravity="center"
+            android:onClick="showRewardedAd"
+            android:padding="10dp"
+            android:text="Show Rewarded Video Ads"
             android:textColor="@android:color/white" />
 
         <TextView
